@@ -1,0 +1,8 @@
+//Below json format used for post method
+{
+	"symbol": "XYZ",
+	"stock_name": "name of the stock",
+	"date": "2021-11-01",
+	"closing_price": 250.00,
+	"currency": "USD"
+}
